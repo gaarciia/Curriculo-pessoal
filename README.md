@@ -34,7 +34,8 @@ Tudo isso em uma interface leve, intuitiva e adaptável a qualquer dispositivo.
 
 ---
 
-[Flex Grid](https://curriculo-pessoal-eo8w39kjy-gabriel-garcias-projects-9b740494.vercel.app}
+## Link Portifólio
+https://curriculo-pessoal-eo8w39kjy-gabriel-garcias-projects-9b740494.vercel.app
 
 ## 📜 Licença
 
